@@ -22,9 +22,11 @@ At Grupo Fleury, I focus on projects involving biological data analysis and deve
 
 ### 📫 Contact
 
-
-- **Email:** [jpferreira.jota@gmail.com](mailto:jpferreira.jota@gmail.com)
-- **Instagram:** [@ojpferreira](https://www.instagram.com/ojpferreira)
+<div>
+<a href="https://www.instagram.com/ojpferreira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@jpferreira.jota@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/br/jpcferreira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 ### 🎯 Goals
 
