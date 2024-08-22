@@ -31,3 +31,11 @@ At Grupo Fleury, I focus on projects involving biological data analysis and deve
 ### 🎯 Goals
 
 I'm continually striving to deepen my programming knowledge and expand my expertise in areas like software development and AI.
+
+---
+
+<div>
+<a href="https://github.com/biojpferreira">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biojpferreira&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=biojpferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
